@@ -12,6 +12,8 @@
         <module>hot-items-analysis</module>
         <module>network-flow-analysis</module>
         <module>market-analysis</module>
+        <module>login-fail-delect</module>
+        <module>order-pay-detect</module>
     </modules>
 
     <properties>
